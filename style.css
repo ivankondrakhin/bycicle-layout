@@ -1,0 +1,39 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+header {
+	height: 800px;
+	background: url(img/background.png) no-repeat center top / cover;
+	font-size: 12px;
+	text-transform: uppercase;
+	width: 100%;
+}
+ul.menu {
+	padding: 0;
+	margin: 0;
+}
+ul.menu li {
+	display: inline;
+	padding-left: 35px;
+}
+.left-menu {
+	float: left;
+	margin-left: 350px;
+	margin-top: 65px;
+}
+.right-menu{
+	float: right;
+	margin-right: 350px;
+	margin-top: 65px;
+}
+.img {
+	position: absolute;
+	margin-left: 640px;
+	margin-top: 30px;
+}
+
